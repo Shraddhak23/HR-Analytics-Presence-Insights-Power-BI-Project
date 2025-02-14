@@ -1,4 +1,4 @@
-**HR-Analytics Power BI Project- Atliq Technologie**s
+**HR-Analytics(Presence Insights) Power BI Project- Atliq Technologie**s
 
 **Problem Statement:**
 
