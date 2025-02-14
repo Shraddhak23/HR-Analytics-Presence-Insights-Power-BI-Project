@@ -9,6 +9,7 @@ Atliq Technologies' HR Generalist sought insights from the attendance data, coll
 The attendance data was provided in the form of an Excel file. The data underwent Extract, Transform, and Load (ETL) operations to prepare it for analysis.
 
 **Understanding Problem:**
+
 Defined the scope of the analysis, focusing on attendance patterns, retention strategies, and sick leave percentages.
 Data Gathering and Transformation:
 Collected the attendance data from the provided Excel file.
